@@ -9,7 +9,6 @@ Welcome to the GitHub repository for my collection of machine learning projects!
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -84,14 +83,14 @@ If you have any questions or suggestions, feel free to reach out:
 
 Thank you for exploring my machine learning projects! I hope you find them informative and inspiring. Happy coding!
 
-     _________
-    / ======= \
-   / __________\
-  | ___________ |
-  | | -       | |
-  | |         | |
-  | |_________| |________________________
-  \=____________/                        )
-  / """"""""""" \                       /
- / ::::::::::::: \                  =D-'
-(_________________)
+     _________  
+    / ======= \  
+   / __________\  
+  | ___________ |  
+  | | -       | |  
+  | |         | |  
+  | |_________| |________________________  
+  \=____________/                        )  
+  / """"""""""" \                       /  
+ / ::::::::::::: \                  =D-'  
+(_________________)  
