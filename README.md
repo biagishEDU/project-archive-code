@@ -82,15 +82,3 @@ If you have any questions or suggestions, feel free to reach out:
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shayne-biagi-0aa991195)
 
 Thank you for exploring my machine learning projects! I hope you find them informative and inspiring. Happy coding!
-
-     _________  
-    / ======= \  
-   / __________\  
-  | ___________ |  
-  | | -       | |  
-  | |         | |  
-  | |_________| |________________________  
-  \=____________/                        )  
-  / """"""""""" \                       /  
- / ::::::::::::: \                  =D-'  
-(_________________)  
